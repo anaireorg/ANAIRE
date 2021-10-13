@@ -8,14 +8,15 @@ Nuestros dispositivos miden la concentración de CO2 en el aire, la temperatura 
 
 El proyecto está dirigido a organizaciones con espacios cerrados, especialmente a centros educativos, donde no se puedan mantener las medidas de seguridad estipuladas actualmente (no juntarse más de 6 personas y mantener una separación mayor de 1,5 metros entre ellas), para minimizar las posibilidades de contagio de COVID-19.
 
-anaire@anaire.org
-
-https://www.youtube.com/c/AnaireCO2
-
-https://twitter.com/anaire_co2
-
 Dispositivos: https://github.com/anaireorg/anaire-devices
 
 Aplicación en la nube: https://github.com/anaireorg/anaire-cloud
+
+Correo: anaire@anaire.org
+
+Youtube: https://www.youtube.com/c/AnaireCO2
+
+Twitter: https://twitter.com/anaire_co2
+
 
 
